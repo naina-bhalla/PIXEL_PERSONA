@@ -34,7 +34,7 @@ The model gives 88.49% accuracy on the testing data and a loss of 0.30.
  
  ![multiple_faces_2](https://github.com/user-attachments/assets/ba0fda32-54a3-4866-b0b2-b193c0294ff3)
 
-## Live Detetction
-This part only runs on a local runtime using a jupyter notebook. It switches on the webcam and then detects the gender of the person on the live feed along with the probability of its prediction.
+## Live Detection
+This part only runs on a local runtime. It switches on the webcam and then detects the gender of the person on the live feed along with the probability of its prediction.
 
 
